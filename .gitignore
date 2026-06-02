@@ -1,0 +1,19 @@
+# Build output
+bin/
+obj/
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.dll
+
+# Code::Blocks generated/local files
+*.depend
+*.layout
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
