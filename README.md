@@ -1,4 +1,5 @@
 # Computer Graphics Project
+It is my academic project of Computer Graphics course
 
 ## Dynamic City Lake View
 
